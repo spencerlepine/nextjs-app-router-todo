@@ -12,6 +12,14 @@ First, clone the repository:
 npx create-next-app@latest --example nextjs-app-router "https://github.com/spencerlepine/nextjs-app-router-todo"
 ```
 
+```sh
+npm run install
+# or
+yarn install
+# or
+pnpm install
+```
+
 Then, run the development server:
 
 ```sh
